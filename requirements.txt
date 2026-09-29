@@ -1,0 +1,4 @@
+streamlit
+pydantic
+langchain-google-genai
+langchain-core
